@@ -1,0 +1,10 @@
+Student Juan
+Student Juana
+Student Juanis
+Student Juanito
+Student Juancho
+Student Juanchito
+Student Juanes
+Presence Juan 1 09:04 10:35 F100
+Presence Juan 1 05:04 13:35 F101
+Presence Juanes 1 05:04 13:35 F101
