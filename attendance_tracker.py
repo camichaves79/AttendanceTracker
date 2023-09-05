@@ -39,7 +39,7 @@ def main():
     
     """ Sort the students' presence records in descending order, and filter out and presence of less than 5 minutes
     """
-    sorted_students = sorted(students.values(), key=lambda student: student.days, reverse=True)
+    sorted_students = sorted(students.values(), key=lambda student: student.minutes, reverse=True)
 
     for student in sorted_students:
         if student.minutes < 5:

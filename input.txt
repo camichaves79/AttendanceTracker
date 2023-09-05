@@ -5,6 +5,15 @@ Student Juanito
 Student Juancho
 Student Juanchito
 Student Juanes
-Presence Juan 1 09:04 10:35 F100
+Presence Juanis 1 09:04 10:35 F100
+Presence Juan 3 05:04 13:35 F101
+Presence Juanes 5 05:04 13:35 F101
+Presence Juanito 7 09:04 10:35 F100
 Presence Juan 1 05:04 13:35 F101
+Presence Juanes 1 05:04 13:35 F101
+Presence Juan 2 09:04 10:35 F100
+Presence Juanchito 1 05:04 13:35 F101
+Presence Juanes 3 05:04 13:35 F101
+Presence Juanes 1 09:04 10:35 F100
+Presence Juanis 4 05:04 13:35 F101
 Presence Juanes 1 05:04 13:35 F101
